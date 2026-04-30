@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional: uncomment to keep dist/ out of the repo and build it locally only.
+# Most people commit dist/ so .skill files are downloadable from GitHub releases.
+# dist/
